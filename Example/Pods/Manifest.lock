@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (48)
+  - FFBaseViewCuatomTest (1.0.1)
+
+DEPENDENCIES:
+  - CTMediator
+  - "FFBaseViewCuatomTest (from `/Users/derrick/Desktop/pod组建验证/FFBaseView`)"
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  FFBaseViewCuatomTest:
+    :path: "/Users/derrick/Desktop/pod组建验证/FFBaseView"
+
+SPEC CHECKSUMS:
+  CTMediator: 3f3578b525b3a46a7a2f92a99922ec40363f4269
+  FFBaseViewCuatomTest: 2a119e265b02c81f461fa9212d503e11fed6d0a2
+
+PODFILE CHECKSUM: 707e97ae23b647f1096a2f1c10f46c2e3d3634ae
+
+COCOAPODS: 1.15.2

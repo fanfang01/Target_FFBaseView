@@ -1,0 +1,6 @@
+framework module FFBaseViewCuatomTest {
+  umbrella header "FFBaseViewCuatomTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

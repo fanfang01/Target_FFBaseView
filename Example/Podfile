@@ -1,0 +1,20 @@
+use_frameworks!
+
+platform :ios, '12.0'
+
+target 'LLNetworking_Example' do
+#本地组件安装
+
+pod 'FFBaseViewCuatomTest',:path => '/Users/derrick/Desktop/pod组建验证/FFBaseView'
+	pod 'CTMediator'
+
+  target 'LLNetworking_Tests' do
+    inherit! :search_paths
+#远程组件安装
+# pod 'CTMediator'
+#    pod 'Specta'
+ #   pod 'Expecta'
+ #   pod 'FBSnapshotTestCase'
+ #   pod 'Expecta+Snapshots'
+  end
+end
