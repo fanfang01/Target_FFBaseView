@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Target_FFBaseViewCustomTest.'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of Target_FFBaseViewCustomTest.'
 
 # This description is used to generate tags and improve search results.
@@ -30,10 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'LLNetworking/Classes/**/*'
+  s.source_files = 'Source/Classes/**/*'
   
   s.resource_bundles = {
-    'LLNetworking' => ['LLNetworking/Assets/*.png']
+    'Target_FFBaseView' => ['Source/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
