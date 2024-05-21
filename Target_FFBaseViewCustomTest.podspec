@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Target_FFBaseViewCustomTest.'
-  s.version          = '1.0.2'
+  s.name             = 'Target_FFBaseViewCustomTest'
+  s.version          = '1.0.3'
   s.summary          = 'A short description of Target_FFBaseViewCustomTest.'
 
 # This description is used to generate tags and improve search results.
